@@ -1,0 +1,11 @@
+.link_div{
+ margin: 280px 0 0 600px;
+}
+
+a{
+ text-decoration: none;
+ background: gray;
+ color: #333;
+
+ padding: 20px;
+}
